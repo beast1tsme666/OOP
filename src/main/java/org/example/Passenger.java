@@ -9,6 +9,7 @@ public class Passenger {
         this.passportNumber = passportNumber;
 
     }
+
     public String getName() {
         return name;
     }
