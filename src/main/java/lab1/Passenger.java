@@ -1,4 +1,4 @@
-package org.example;
+package lab1;
 
 public class Passenger {
     private String name;
