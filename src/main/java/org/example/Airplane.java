@@ -21,12 +21,4 @@ public class Airplane {
     public int getCapacity(){
         return capacity;
     }
-
-
-
-
-
-
-
-
 }
